@@ -1,0 +1,17 @@
+{
+  "name": "name and surname",
+  "email": "Email",
+  "password": "password",
+  "dateofbirth": "date of birth",
+  "gender": "gender",
+  "male": "Sir",
+  "femele": "lady",
+  "city": "City",
+  "state": "region",
+  "submit": "confirm",
+  "regesterform": "registration form",
+  "plaseentername": "Please enter your name",
+  "plaseenteremail": "Please check your e-mail and enter the number",
+  "plaseenterpass": "Please enter a passcode",
+  "selectdateofbirth": "date of birth or election"
+}

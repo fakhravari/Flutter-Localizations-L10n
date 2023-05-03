@@ -1,0 +1,17 @@
+{
+  "name": "نام و نام خانوادگی",
+  "email": "ایمیل",
+  "password": "پسورد",
+  "dateofbirth": "تاریخ تولد",
+  "gender": "جنسیت",
+  "male": "آقا",
+  "femele": "خانم",
+  "city": "شهر",
+  "state": "ناحیه",
+  "submit": "تایید",
+  "regesterform": "فرم ثبتنام",
+  "plaseentername":"لطفا نام خود را وارد کنید",
+  "plaseenteremail":"لطفا آدرس اییمیل خود را وارد نمایید",
+  "plaseenterpass":"لطفا یک رمز عبور وارد کنید",
+  "selectdateofbirth":"تاریخ تولد را انتخاب کنید"
+}
